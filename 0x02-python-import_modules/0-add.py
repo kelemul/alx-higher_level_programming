@@ -3,7 +3,7 @@
 # Kelemu L.
 
 if __name__ == "__main__":
-    """import add() from add_0 and sum the arguments"""
+    """import and sum 1 and 2"""
     from add_0 import add
 
     a = 1
